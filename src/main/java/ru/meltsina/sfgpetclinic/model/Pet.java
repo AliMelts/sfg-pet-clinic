@@ -8,6 +8,7 @@ public class Pet {
     private LocalDate birthDate;
 
     public PetType getPetType() {
+
         return petType;
     }
 
